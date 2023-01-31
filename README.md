@@ -1,5 +1,10 @@
 # ReconhecimentoFacial
 
+```Foi removido os rostos```
+
+![image](https://user-images.githubusercontent.com/19413241/215744283-036f7a56-c219-4ffb-abac-9e60c2664ecc.png)
+
+
 ## Detecção X Reconlhecimento
 ```
 Detecção - 
